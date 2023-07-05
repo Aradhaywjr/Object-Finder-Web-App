@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#text{
+    cursor: wait;
+    border-radius: 10px;
+    width: 400px;
+    background: none;
+}
+
+.format{
+    font-size: 20px;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px #1681ff;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+#header p{
+    margin-top: 0px;
+    font-size: 15px;
+}
