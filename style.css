@@ -1,4 +1,5 @@
 body{
+    cursor: wait;
     background-size: cover;
 }
 
@@ -9,7 +10,6 @@ body{
 }
 
 #text{
-    cursor: wait;
     border-radius: 10px;
     width: 400px;
     background: none;
